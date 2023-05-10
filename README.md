@@ -8,22 +8,22 @@
 
 ## Some of my recent projects
 
-✨ [Corewar](https://github.com/pyrypiironen/Corewar)
+[Corewar](https://github.com/pyrypiironen/Corewar)
 
 The implementation of a 1984-created programming game Core war.
 
-✨ [Lem_in](https://github.com/pyrypiironen/Lem_in)
+[Lem_in](https://github.com/pyrypiironen/Lem_in)
 
 In this project, we will be given a graph, including the locations of the nodes and the connections between them.
 Our task was to find the most efficient combinations of paths through the graph from the starting node to the ending node. 
 During the Lem-in, I learned about graph theory, algorithm design, and implementing efficient solutions in code.
 
-✨ [Push_swap](https://github.com/pyrypiironen/Push_swap)
+[Push_swap](https://github.com/pyrypiironen/Push_swap)
 
 This project made me sort data on a stack, with a limited set of instructions, using the lowest possible number of actions.
 Push_swap taught me how to manipulate various types of algorithms and create the most appropriate solution for optimized data sorting.
 
-✨ [Delivery fee calculator](https://github.com/pyrypiironen/Delivery_fee_calculator)
+[Delivery fee calculator](https://github.com/pyrypiironen/Delivery_fee_calculator)
 
 A smaller weekend project made me use Python, JSON, and HTTP API first time. Based on Wolt Summer 2023 Engineering Internship preliminary assignment for backend position. 
 
