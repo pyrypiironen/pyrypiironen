@@ -2,11 +2,9 @@
 
 ✨ I’m a student at [Hive Helsinki](https://www.hive.fi/en/), a [42 coding school](https://42.fr/en/homepage/), and soon to be a software developer.
 
-✨ I'm currently looking for my first internship.
-
 ✨ More on my [LinkedIn profile](https://www.linkedin.com/in/pyry-peetri-piironen-851186264/).
 
-## Some of my recent projects
+## Some of my projects during studies
 
 [Corewar](https://github.com/pyrypiironen/Corewar)
 
