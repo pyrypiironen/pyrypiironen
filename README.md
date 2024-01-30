@@ -21,10 +21,6 @@ During the Lem-in, I learned about graph theory, algorithm design, and implement
 This project made me sort data on a stack, with a limited set of instructions, using the lowest possible number of actions.
 Push_swap taught me how to manipulate various types of algorithms and create the most appropriate solution for optimized data sorting.
 
-[Delivery fee calculator](https://github.com/pyrypiironen/Delivery_fee_calculator)
-
-A smaller weekend project made me use Python, JSON, and HTTP API first time. Based on Wolt Summer 2023 Engineering Internship preliminary assignment for backend position. 
-
 ## Hive Helsinki
 
 Hive Helsinki is a new kind of coding school that is based on peer-to-peer learning. We have no teachers, classes, or workbooks but instead of that
