@@ -1,6 +1,6 @@
-# Hello world, I’m Pyry! 👋 
+# Welcome to my GitHub profile! 👋 
 
-✨ I’m a student at [Hive Helsinki](https://www.hive.fi/en/), a [42 coding school](https://42.fr/en/homepage/), and soon to be a software developer.
+✨ I’m an alumnus of [Hive Helsinki](https://www.hive.fi/en/).
 
 ✨ More on my [LinkedIn profile](https://www.linkedin.com/in/pyry-peetri-piironen-851186264/).
 
@@ -25,8 +25,7 @@ Push_swap taught me how to manipulate various types of algorithms and create the
 
 Hive Helsinki is a new kind of coding school that is based on peer-to-peer learning. We have no teachers, classes, or workbooks but instead of that
 we seek and share knowledge through teamwork while solving real-world problems. The curriculum is organized around projects that provide a practical
-way to introduce new topics. It is based on the pioneering program and content of Ecole 42. With great results in 42 Paris and Silicon Valley, this
-program is now used in over 40 campuses around the world. 
+way to introduce new topics.
 
 Projects are afterward validated via a series of evaluations by our peers based on grading scales defined by the pedagogical staff. At Hive it is
 not enough to get your programs work, the standard is higher (no memory leaks, code must be clean, etc). 
